@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Laiba or uski kahani",
+        "author": "Laiba Naz",
+        "year": "2025",
+        "genre": "kahani",
+        "read": true
+    },
+    {
+        "title": "Successful Life",
+        "author": "Laiba Naz",
+        "year": "2024",
+        "genre": "Life",
+        "read": false
+    }
+]
