@@ -5,6 +5,15 @@ import csv
 import os
 import io
 
+# Set the page configuration
+st.set_page_config(
+    page_title="Mood Tracker App",  # Page title
+    page_icon="🔗",                          # Page icon (you can also use URLs to images)
+    layout="centered",                       # Layout style, you can change to "wide" if you want
+    initial_sidebar_state="auto"             # Sidebar state (if you use a sidebar)
+)
+
+
 # === Config ===
 MOOD_FILE = "mood_log.csv"
 
